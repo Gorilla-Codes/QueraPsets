@@ -14,6 +14,5 @@ def balancer(input_str):
 
     return change_to_open + open_count / 2
 
-
 input_str = input()
 print(int(balancer(input_str)))
